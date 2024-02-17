@@ -1,0 +1,70 @@
+{
+  "Aficiones": [
+    {
+      "id": "2",
+      "nombre": "fdasdff",
+      "descripcion": "ereedadw",
+      "url": "src/assets/img/dota1.png"
+    },
+    {
+      "id": "3",
+      "nombre": "fdddasdff",
+      "descripcion": "ereedvsdadw",
+      "url": "src/assets/img/dota2.jpg"
+    },
+    {
+      "id": "0fdc",
+      "nombre": "armandoi",
+      "descripcion": "aewe",
+      "url": "ew"
+    },
+    {
+      "nombre": "armando2",
+      "descripcion": "dsa",
+      "url": "wwe",
+      "id": "d090"
+    },
+    {
+      "nombre": "fer",
+      "descripcion": "modificar",
+      "url": "nada",
+      "id": "b52e"
+    },
+    {
+      "id": "3e04",
+      "nombre": "aas",
+      "descripcion": "modificar",
+      "url": "nada"
+    },
+    {
+      "id": "86e5",
+      "nombre": "armando3",
+      "descripcion": "prueba",
+      "url": "nada"
+    },
+    {
+      "id": "5a9e",
+      "nombre": "armando4",
+      "descripcion": "aa",
+      "url": "a"
+    },
+    {
+      "nombre": "armando5",
+      "descripcion": "b",
+      "url": "a",
+      "id": "475f"
+    },
+    {
+      "nombre": "armando6",
+      "descripcion": "d",
+      "url": "a",
+      "id": "7736"
+    },
+    {
+      "nombre": "armando7",
+      "descripcion": "b",
+      "url": "a",
+      "id": "b388"
+    }
+  ]
+}
